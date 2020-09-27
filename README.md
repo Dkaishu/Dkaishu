@@ -1,4 +1,4 @@
-### Hi there 👋
+### Android/Java developer
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Dkaishu)](https://github.com/Dkaishu/github-readme-stats)
 
